@@ -20,3 +20,14 @@
 2020-10-21 16:09:43 INFO  TrendyolAutomation:42 - Sepetteki ürün sayısı artırıldı ve Sonrasında Silindi
 2020-10-21 16:09:48 INFO  Listener:21 - Test Başarılı Şekilde Tamamlandı
 2020-10-21 16:09:53 INFO  Listener:57 - Test Sona Erdi ve Browser Kapatıldı
+2020-10-21 16:56:15 INFO  Listener:45 - Browser Açıldı
+2020-10-21 16:56:28 INFO  TrendyolAutomation:16 - Başarıyla Giriş Yapıldı
+2020-10-21 16:56:33 INFO  Listener:21 - Test Başarılı Şekilde Tamamlandı
+2020-10-21 16:56:48 INFO  TrendyolAutomation:23 - Bilgisayar Araması yapıldı
+2020-10-21 16:56:53 INFO  Listener:21 - Test Başarılı Şekilde Tamamlandı
+2020-10-21 16:57:06 INFO  TrendyolAutomation:33 - Ürün Sepete Eklendi
+2020-10-21 16:57:06 INFO  TrendyolAutomation:34 - Ürün Fiyatı Karşılaştırıldı
+2020-10-21 16:57:11 INFO  Listener:21 - Test Başarılı Şekilde Tamamlandı
+2020-10-21 16:57:17 INFO  TrendyolAutomation:42 - Sepetteki ürün sayısı artırıldı ve Sonrasında Silindi
+2020-10-21 16:57:23 INFO  Listener:21 - Test Başarılı Şekilde Tamamlandı
+2020-10-21 16:57:28 INFO  Listener:57 - Test Sona Erdi ve Browser Kapatıldı
