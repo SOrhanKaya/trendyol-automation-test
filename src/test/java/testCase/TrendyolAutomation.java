@@ -1,12 +1,14 @@
 package testCase;
+
 import listener.Listener;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import testCaseFunction.*;
 import utils.BaseTest;
+
 @Listeners({Listener.class})
-public class TrendyolAutomation extends BaseTest{
+public class TrendyolAutomation extends BaseTest {
 
 
     @Test(priority = 0)
@@ -14,8 +16,9 @@ public class TrendyolAutomation extends BaseTest{
         LoginFunction login = new LoginFunction(driver);
         login.Login();
         log.info("Başarıyla Giriş Yapıldı");
-        Thread.sleep(5000);
+        Thread.sleep(6500);
     }
+
     @Test(priority = 1)
     public void Search() throws InterruptedException {
         SearchFunction search = new SearchFunction(driver);
@@ -34,6 +37,7 @@ public class TrendyolAutomation extends BaseTest{
         log.info("Ürün Fiyatı Karşılaştırıldı");
         Thread.sleep(5000);
     }
+
     @Test(priority = 3)
     public void growAndDrop() throws InterruptedException {
         GrowAndDroppingBasketFunction growAndDropping = new GrowAndDroppingBasketFunction(driver);
